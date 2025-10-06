@@ -12,17 +12,11 @@ I'm an aspiring Web developer specializing in full-stack development using moder
 
 ### 💻 Programming languages
 
--   **JavaScript**
--   **Python**
--   **C++**
--   **Java**
--   **Haskell**
+**JavaScript** | **Python** | **C++** | **Java** | **Haskell**
 
 ## 🌐 Portfolio website
 
-Take a look at my skills in more detail over at [viktorsharha.com](https://viktorsharha.com)!
-
-(View the source code of this website in my [Portfolio](https://github.com/vsharha/Portfolio) repo)
+Take a look at my skills in more detail over at [viktorsharha.com](https://viktorsharha.com)! ([source code](https://github.com/vsharha/Portfolio))
 
 ## 📄 Resume
 
