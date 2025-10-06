@@ -8,11 +8,11 @@ I'm an aspiring Web developer specializing in full-stack development using moder
 
 ### 🕸️ Web-development frameworks
 
-**React.js** | **Next.js** | **FastAPI**
+**React.js** | **Next.js** | **FastAPI** | **TailwindCSS**
 
 ### 💻 Programming languages
 
-**JavaScript** | **Python** | **C++** | **Java** | **Haskell**
+**HTML** | **CSS** | **JavaScript** | **Python** | **C++** | **Java** | **Haskell**
 
 ## 🌐 Portfolio website
 
