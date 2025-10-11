@@ -1,24 +1,24 @@
 ## Hi there 👋
 
-## 👨‍💻 Description
+## Description
 
 I'm an aspiring Web developer specializing in full-stack development using modern web-development frameworks including React, Next.js and FastAPI.
 
-## 💪 Skills
+## Skills
 
-### 🕸️ Web-development frameworks
+### Web-development frameworks
 
 **React.js** | **Next.js** | **FastAPI** | **TailwindCSS**
 
-### 💻 Programming languages
+### Programming languages
 
 **HTML** | **CSS** | **JavaScript** | **Python** | **C++** | **Java** | **Haskell**
 
-## 🌐 Portfolio website
+## Portfolio website
 
 Take a look at my skills in more detail over at [viktorsharha.com](https://viktorsharha.com)! ([source code](https://github.com/vsharha/Portfolio))
 
-## 📄 Resume
+## Resume
 
 View my resume [here](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/vsharha/Resume/main/Viktor%20Sharha.pdf#pagemode=none&zoom=page-fit)!
 
