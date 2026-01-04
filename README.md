@@ -20,7 +20,7 @@ Take a look at my skills in more detail over at [viktorsharha.com](https://vikto
 
 ## Resume
 
-View my resume [here](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/vsharha/Resume/main/Viktor%20Sharha.pdf#pagemode=none&zoom=page-fit)!
+View my resume [here](https://viktorsharha.com/resume)!
 
 <!--
 **vsharha/vsharha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
