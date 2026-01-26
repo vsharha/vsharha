@@ -16,7 +16,7 @@ I'm an aspiring Web developer specializing in full-stack development using moder
 
 ## Portfolio website
 
-Take a look at my skills in more detail over at [viktorsharha.com](https://viktorsharha.com)! ([source code](https://github.com/vsharha/Portfolio))
+Take a look at my skills in more detail over at [viktorsharha.com](https://viktorsharha.com)!
 
 ## Resume
 
