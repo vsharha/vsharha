@@ -1,23 +1,23 @@
 # Hi there 👋
 
-## Description
+## About Me
 
-I'm an aspiring Web developer specializing in full-stack development using modern web-development frameworks including React, Next.js and FastAPI.
+Computer Science student at the University of Edinburgh with a focus on AI and product engineering. Currently building Zenparse, an AI-powered document processing tool for small businesses.
 
 ## Skills
 
-### Web-development frameworks
+### Languages
 
-**React.js** | **Next.js** | **FastAPI** | **TailwindCSS**
+**Python** | **TypeScript/JavaScript** | **Go** | **Java** | **C++** | **SQL** | **Bash**
 
-### Programming languages
+### Frameworks & Libraries
 
-**HTML** | **CSS** | **JavaScript** | **Python** | **C++** | **Java** | **Haskell**
+**React** | **Next.js** | **SvelteKit** | **FastAPI** | **Node.js** | **Tailwind CSS**
 
-## Portfolio website
+### Tools & Platforms
 
-Take a look at my skills in more detail over at [viktorsharha.com](https://viktorsharha.com)!
+**Git** | **Linux** | **Docker** | **Supabase** | **Cloudflare** | **CI/CD**
 
-## Resume
+## Links
 
-View my resume [here](https://viktorsharha.com/resume)!
+[viktorsharha.com](https://viktorsharha.com) | [Resume](https://viktorsharha.com/resume) | [LinkedIn](https://linkedin.com/in/vsharha)
