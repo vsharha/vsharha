@@ -2,7 +2,7 @@
 
 2nd-year Computer Science student at the University of Edinburgh. I build full-stack systems and applied AI — LLM pipelines, agent orchestration, and automation that replaces manual workflows.
 
-**Recent highlights:**
+**🚀 Recent highlights:**
 
 - **VDrive** — Solo-built the software platform for a car servicing business: Telegram ops bot, AI invoice extraction processing 500+ invoices/year, and FreeAgent accounting integration. Cut monthly bookkeeping from 10 hours to under 30 minutes.
 - **[Fira](https://github.com/vsharha/hackeurope-monorepo)** — Multi-agent verification pipeline for freelance contracts at HackEurope Dublin. Parallel agents inspect GitHub milestones and navigate live deployments via Playwright, with on-chain Solana escrow release.
