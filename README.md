@@ -1,6 +1,6 @@
 # Viktor Sharha
 
-2nd-year Computer Science student at the University of Edinburgh. I build applied AI and full-stack systems: production LLM pipelines, risk intelligence tools, and automation that replaces manual workflows.
+Computer Science student at the University of Edinburgh, entering third year in September 2026. I build applied AI and full-stack systems: production LLM pipelines, risk intelligence tools, and automation that replaces manual workflows.
 
 **🚀 Recent highlights:**
 
