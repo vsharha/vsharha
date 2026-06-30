@@ -1,12 +1,13 @@
 # Viktor Sharha
 
-2nd-year Computer Science student at the University of Edinburgh. I build full-stack systems and applied AI — LLM pipelines, agent orchestration, and automation that replaces manual workflows.
+2nd-year Computer Science student at the University of Edinburgh. I build applied AI and full-stack systems: production LLM pipelines, risk intelligence tools, and automation that replaces manual workflows.
 
 **🚀 Recent highlights:**
 
-- **VDrive** — Solo-built the software platform for a car servicing business: Telegram ops bot, AI invoice extraction processing 500+ invoices/year, and FreeAgent accounting integration. Cut monthly bookkeeping from 10 hours to under 30 minutes.
-- **[Fira](https://github.com/vsharha/hackeurope-monorepo)** — Multi-agent verification pipeline for freelance contracts at HackEurope Dublin. Parallel agents inspect GitHub milestones and navigate live deployments via Playwright, with on-chain Solana escrow release.
+- **[Sentinel](https://sentinel.viktorsharha.com)** — Real-time KYC-drift monitor for a bank's customer book, built for SwissHacks 2026. I built the 10-source intelligence layer, ownership-risk graph, and cost-aware LLM cascade over public signals.
+- **[VDrive](https://vdrivechip.co.uk)** — Solo-built the software platform for a car servicing business: Telegram ops bot, AI invoice extraction processing 500+ invoices/year, supplier invoice automation, and FreeAgent accounting integration. Cut monthly bookkeeping from 15 hours to under 30 minutes.
+- **Zenparse** — YAML-configured multi-pass LLM extraction framework for PDFs, images, CSVs, and XLSX files. Runs in VDrive production at 90%+ extraction accuracy.
 - **[Samantha OS Assistant](https://github.com/vsharha/samantha_oe)** — Natural language CLI assistant for Linux. 1st place, OpenEuler Challenge.
-- **GradeIQ** — AI grading platform that grades student PDFs against instructor rubrics. 3rd place, Teachathon.
+- **GradeIQ** — AI grading platform that grades student PDFs against instructor rubrics with per-criterion evidence. 3rd place, Teachathon.
 
 [viktorsharha.com](https://viktorsharha.com) · [Resume](https://viktorsharha.com/resume) · [LinkedIn](https://linkedin.com/in/vsharha)
