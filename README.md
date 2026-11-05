@@ -8,7 +8,7 @@ Third-year Computer Science student at the University of Edinburgh, building app
 
 AI and UX Innovation intern at the University's Information Services Group, researching where AI can help its web publishers. Designing a prototype tool that checks single pages and entire sites against the editorial style guide.
 
-Over the summer, I was the Web Development Migration Intern, building a Drupal module to aid with the migration of university websites to a new format.
+Previously Web Development Migration Intern (summer 2026), building a Drupal module that turns legacy University web pages back into editable components after a platform migration.
 
 ## Projects
 
