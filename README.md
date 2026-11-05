@@ -12,14 +12,17 @@ Over the summer, I was the Web Development Migration Intern, building a Drupal m
 
 ## Projects
 
-**Sentinel** · [Code](https://github.com/vsharha/swisshacks2026-monorepo) · [Demo](https://sentinel.viktorsharha.com) · [Case study](https://viktorsharha.com/sentinel)  
-Real-time KYC-drift monitor for a bank's customer book, built at SwissHacks 2026.
+**Sentinel**  
+Real-time KYC-drift monitor for a bank's customer book, built at SwissHacks 2026.  
+[Case study](https://viktorsharha.com/sentinel) · [Code](https://github.com/vsharha/swisshacks2026-monorepo) · [Demo](https://sentinel.viktorsharha.com)
 
-**VDrive** · [Website](https://vdrivechip.co.uk) · [Case study](https://viktorsharha.com/vdrive)  
-Platform for a car servicing business that cut monthly bookkeeping from 15 hours to under 30 minutes. Solo, in production.
+**VDrive**  
+Platform for a car servicing business that cut monthly bookkeeping from 15 hours to under 30 minutes. Solo, in production.  
+[Case study](https://viktorsharha.com/vdrive) · [Website](https://vdrivechip.co.uk)
 
-**Fira** · [Code](https://github.com/vsharha/fira) · [Case study](https://viktorsharha.com/fira)  
-Platform where AI agents verify freelance work and gate Solana payments on the results, built in 22 hours at HackEurope Dublin.
+**Fira**  
+Platform where AI agents verify freelance work and gate Solana payments on the results, built in 22 hours at HackEurope Dublin.  
+[Case study](https://viktorsharha.com/fira) · [Code](https://github.com/vsharha/fira)
 
 **Also:** [Samantha OS Assistant](https://github.com/vsharha/samantha_oe) (1st, OpenEuler Challenge) · Zenparse (3rd, Launchburgh) · [GradeIQ](https://github.com/vsharha/GradeIQ) (3rd, Teachathon)
 
