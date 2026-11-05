@@ -2,6 +2,8 @@
 
 Third-year Computer Science student at the University of Edinburgh, building applied AI and full-stack systems.
 
+[viktorsharha.com](https://viktorsharha.com) · [Resume](https://viktorsharha.com/resume) · [LinkedIn](https://linkedin.com/in/vsharha)
+
 ## Now
 
 AI and UX Innovation intern at the University's Information Services Group, after a summer building the tool that rebuilt 410 of 420 targeted legacy pages on its Drupal web platform.
@@ -32,5 +34,3 @@ AI grading platform that grades student PDFs against instructor rubrics with per
 ## Stack
 
 Python · TypeScript · SvelteKit · Next.js · PostgreSQL · Docker · Cloudflare Workers
-
-[viktorsharha.com](https://viktorsharha.com) · [Resume](https://viktorsharha.com/resume) · [LinkedIn](https://linkedin.com/in/vsharha)
