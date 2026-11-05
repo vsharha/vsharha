@@ -6,30 +6,22 @@ Third-year Computer Science student at the University of Edinburgh, building app
 
 ## Now
 
-AI and UX Innovation intern at the University's Information Services Group, after a summer building the tool that rebuilt 410 of 420 targeted legacy pages on its Drupal web platform.
+AI and UX Innovation intern at the University's Information Services Group.
 
-## Selected work
+Over the summer, I was the Web Development Migration Intern, building a Drupal module to aid with the migration of university websites to a new format.
 
-**[Sentinel](https://github.com/vsharha/swisshacks2026-monorepo)** · SwissHacks 2026  
-Real-time KYC-drift monitor for a bank's customer book. I built the 10-source intelligence layer, ownership-risk graph, and cost-aware LLM cascade.  
-[Demo](https://sentinel.viktorsharha.com) · [Case study](https://viktorsharha.com/sentinel)
+## Projects
 
-**VDrive** · Solo, in production  
-Software platform for a car servicing business: Telegram ops bot, AI invoice extraction processing 850+ invoices/year, supplier invoice automation, and FreeAgent accounting integration. Cut monthly bookkeeping from 15 hours to under 30 minutes.  
-[Website](https://vdrivechip.co.uk) · [Case study](https://viktorsharha.com/vdrive)
+**Sentinel** · [Code](https://github.com/vsharha/swisshacks2026-monorepo) · [Demo](https://sentinel.viktorsharha.com) · [Case study](https://viktorsharha.com/sentinel)  
+Real-time KYC-drift monitor for a bank's customer book, built at SwissHacks 2026.
 
-**[Fira](https://github.com/vsharha/fira)** · HackEurope Dublin  
-AI verification platform for freelance work, built in 22 hours. Autonomous agents inspect GitHub repos and deployed products, generate evidence-based reports, and gate Solana payments on the results.  
-[Case study](https://viktorsharha.com/fira)
+**VDrive** · [Website](https://vdrivechip.co.uk) · [Case study](https://viktorsharha.com/vdrive)  
+Platform for a car servicing business that cut monthly bookkeeping from 15 hours to under 30 minutes. Solo, in production.
 
-**[Samantha OS Assistant](https://github.com/vsharha/samantha_oe)** · 1st place, OpenEuler Challenge  
-Natural language CLI assistant for Linux.
+**Fira** · [Code](https://github.com/vsharha/fira) · [Case study](https://viktorsharha.com/fira)  
+Platform where AI agents verify freelance work and gate Solana payments on the results, built in 22 hours at HackEurope Dublin.
 
-**Zenparse** · 3rd place, Launchburgh demo day  
-YAML-configured multi-pass LLM extraction framework for PDFs, images, CSVs, and XLSX files. Runs in VDrive production at 90%+ extraction accuracy.
-
-**[GradeIQ](https://github.com/vsharha/GradeIQ)** · 3rd place, Teachathon  
-AI grading platform that grades student PDFs against instructor rubrics with per-criterion evidence.
+**Also:** [Samantha OS Assistant](https://github.com/vsharha/samantha_oe) (1st, OpenEuler Challenge) · Zenparse (3rd, Launchburgh) · [GradeIQ](https://github.com/vsharha/GradeIQ) (3rd, Teachathon)
 
 ## Stack
 
